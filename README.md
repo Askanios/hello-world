@@ -1,2 +1,2 @@
 # hello-world
-First testing Repository
+This is the first repository meant for testing.
